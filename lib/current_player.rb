@@ -45,7 +45,8 @@ def play(board)
 end
 
 def turn_count(board)
-  if 
+  board.each do |space| 
+end
 end
 
 
